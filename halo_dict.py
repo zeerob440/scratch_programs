@@ -9,3 +9,4 @@ def spartan_id(who, roster_num):
     print(f"I'm {who['name']} {roster_num}")
 
 spartan_id(master_chief, "Finish this fight.")
+print (master_chief{who[op_id]})
